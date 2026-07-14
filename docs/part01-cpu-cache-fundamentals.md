@@ -226,11 +226,17 @@ __attribute__((aligned(64)))
 - Cache misses significantly impact performance.
 - AMAT is the most important cache performance metric.
 
+---
+
 # CPU Cache 3D
 
 <img width="1402" height="1122" alt="CPU_Cache_3D" src="https://github.com/user-attachments/assets/d47a6bdc-44df-48fc-a18d-b07369807dcc" />
 
+---
+
 # CPU Cache White Board
+
+<img width="1536" height="1024" alt="CPU_Cache_White_board_Notes" src="https://github.com/user-attachments/assets/1a85218d-7c9d-4397-be67-635c5ab25a47" />
 
 ---
 
