@@ -236,7 +236,7 @@ __attribute__((aligned(64)))
 
 # CPU Cache White Board
 
-<img width="1536" height="1024" alt="CPU_Cache_White_board_Notes" src="https://github.com/user-attachments/assets/1a85218d-7c9d-4397-be67-635c5ab25a47" />
+![CPU Cache White Board](images/CPU_Cache_White_board_Notes.png)
 
 ---
 
