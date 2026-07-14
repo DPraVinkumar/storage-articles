@@ -230,7 +230,7 @@ __attribute__((aligned(64)))
 
 # CPU Cache 3D
 
-<img width="1402" height="1122" alt="CPU_Cache_3D" src="https://github.com/user-attachments/assets/d47a6bdc-44df-48fc-a18d-b07369807dcc" />
+![CPU Cache 3D](images/CPU_Cache_3D.png)
 
 ---
 
